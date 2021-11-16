@@ -8,6 +8,6 @@
         "@pulumi/awsx": "^0.18.10",
         "@pulumi/cloud": "^0.18.1",
         "@pulumi/pulumi": "^1.0.0",
-        "aws-sdk": "^2.546.0"
+        "aws-sdk": "^2.814.0"
     }
 }
